@@ -7,7 +7,6 @@ public class Test {
 
     public static void main(String[] args) throws IOException {
 
-//        SimpleKV simpleKV = new SimpleKV("/home/maddelas/skv/test.1.db");
         SimpleKV simpleKV = new SimpleKV("test.1.db");
 
         long startTime = System.currentTimeMillis();
