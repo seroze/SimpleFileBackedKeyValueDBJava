@@ -14,6 +14,7 @@ import java.util.HashMap;
  *
  *
  */
+// TODO: Add load method
 public class SimpleKV {
 
     private File dbFile ;
